@@ -1,0 +1,45 @@
+[
+    {
+        "address": "Budapest, 1067, Petőfi u. 2/a.",
+        "desks": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+        "meeting_room": [
+            {"name": "Uruguay", "capacity": 14},
+            {"name": "Macedonia", "capacity": 5},
+            {"name": "Niger", "capacity": 10},
+            {"name": "San Marino", "capacity": 19},
+            {"name": "Bhutan", "capacity": 7},
+            {"name": "Cameroon", "capacity": 4},
+            {"name": "Greece", "capacity": 3},
+            {"name": "Ukraine", "capacity": 16},
+            {"name": "Russia", "capacity": 4} 
+        ],
+        "accessibility": false, 
+        "beverage": true
+    },
+    {
+        "address": "Budapest, 1011, Újbuda u. 5.",
+        "desks": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+        "meeting_room": [
+        ],
+        "accessibility": false, 
+        "beverage": false
+    },
+    {
+        "address": "Budapest, 1013, Váci u. 113.",
+        "desks": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+        "meeting_room": [
+            {"name": "Uruguay", "capacity": 14},
+            {"name": "Macedonia", "capacity": 14},
+            {"name": "Niger", "capacity": 10},
+            {"name": "San Marino", "capacity": 19},
+            {"name": "Heard Island and Mcdonald Islands", "capacity": 5},
+            {"name": "Bhutan", "capacity": 7},
+            {"name": "Cameroon", "capacity": 4},
+            {"name": "Greece", "capacity": 3},
+            {"name": "Ukraine", "capacity": 16},
+            {"name": "Russia", "capacity": 4} 
+        ],
+        "accessibility": true, 
+        "beverage": true
+    }
+]
