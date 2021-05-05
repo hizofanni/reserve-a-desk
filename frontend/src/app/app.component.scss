@@ -1,0 +1,24 @@
+.input-field {
+    width: 60%;
+}
+
+mat-sidenav {
+    background: rgb(51, 35, 109);
+}
+
+.sidenav {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #eee;
+}
+
+.content {
+    margin: 3vh 2vw;
+}
+
+mat-sidenav-container {
+    height: 100vh;
+}

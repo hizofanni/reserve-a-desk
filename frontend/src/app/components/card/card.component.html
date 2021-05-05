@@ -1,0 +1,7 @@
+<div class="card-container">
+    <div *ngFor="let i of offices">
+    <div class="card" tabindex="0" [style.backgroundImage]="'url(../../../assets/images/' + i._id + '.png)'">
+          <span>{{i.address}}</span> 
+      </div>
+    </div>   
+  </div>
